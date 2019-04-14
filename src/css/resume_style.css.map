@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../sass/resume_style.sass"
+    ],
+    "names": [],
+    "file": "resume_style.css"
+}
